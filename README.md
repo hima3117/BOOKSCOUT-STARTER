@@ -4,11 +4,11 @@ BookScout is a responsive book discovery web application built using the Open Li
 
 ## Live Demo
 Add your deployed link here:  
-book-scout-e2i69wnba-hima3117s-projects.vercel.app
+`book-scout-e2i69wnba-hima3117s-projects.vercel.app`
 
 ## GitHub Repository
 Add your repository link here:  
-`https://github.com/your-username/bookscout`
+`https://github.com/hima3117/BOOKSCOUT-STARTER.git`
 
 ---
 
